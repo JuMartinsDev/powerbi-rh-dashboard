@@ -18,7 +18,7 @@ O dashboard foi construído a partir de fontes principais:
 
 ---
 
-## Dashboard: https://app.powerbi.com/groups/me/reports/ce1ae964-f158-473a-8a4d-503571d4fd74/d9c5a60e138226ded766?experience=power-bi
+## Dashboard: [https://app.powerbi.com/groups/me/reports/ce1ae964-f158-473a-8a4d-503571d4fd74/d9c5a60e138226ded766?experience=power-bi](https://app.powerbi.com/links/H21PiaTJRI?ctid=11dbbfe2-89b8-4549-be10-cec364e59551&pbi_source=linkShare)
 
 <img width="1276" height="725" alt="image" src="https://github.com/user-attachments/assets/8e072a46-b598-49bc-a131-17963ccedfd2" />
 
